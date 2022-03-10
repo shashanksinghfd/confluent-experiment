@@ -1,1 +1,1 @@
-# faust-experiment
+# Kafka and Confluent POC
